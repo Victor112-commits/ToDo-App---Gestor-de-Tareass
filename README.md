@@ -145,20 +145,6 @@ implementation "androidx.recyclerview:recyclerview:1.3.2"
 - Sigue las mejores prácticas de Android moderno
 - Código bien documentado y comentado en español
 
-## 🚀 Próximas Mejoras
 
-- [ ] Notificaciones para tareas próximas a vencer
-- [ ] Sincronización en la nube
-- [ ] Categorías de tareas
-- [ ] Búsqueda de tareas
-- [ ] Exportar/importar tareas
-- [ ] Tema oscuro automático
-- [ ] Widgets de escritorio
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
-
----
 
 **Desarrollado con ❤️ en Kotlin para Android**
