@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Fondo circular con gradiente -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- Fondo interior más claro -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    
+    <!-- Lista de tareas -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,25 L78,25 L78,30 L30,30 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,40 L78,40 L78,45 L30,45 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,55 L78,55 L78,60 L30,60 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,70 L78,70 L78,75 L30,75 Z" />
+    
+    <!-- Checkbox completado -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M25,25 L35,25 L35,35 L25,35 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,30 L32,34 L38,28 L36,26 L32,30 L30,28 Z" />
+    
+    <!-- Checkbox pendiente -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M25,40 L35,40 L35,50 L25,50 Z" />
+    
+    <!-- Checkbox pendiente -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M25,55 L35,55 L35,65 L25,65 Z" />
+    
+    <!-- Checkbox pendiente -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M25,70 L35,70 L35,80 L25,80 Z" />
+    
+    <!-- Calendario pequeño -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M65,25 L75,25 L75,35 L65,35 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,27 L73,27 L73,29 L67,29 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,31 L69,31 L69,33 L67,33 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,31 L73,31 L73,33 L71,33 Z" />
+    
+    <!-- Papelera pequeña -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M65,40 L75,40 L75,50 L65,50 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,42 L73,42 L73,44 L67,44 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,45 L72,45 L72,47 L68,47 Z" />
+    
+    <!-- Texto "TODO" -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M40,85 L45,85 L45,90 L40,90 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M50,85 L55,85 L55,90 L50,90 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M60,85 L65,85 L65,90 L60,90 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M70,85 L75,85 L75,90 L70,90 Z" />
+    
+</vector>
+

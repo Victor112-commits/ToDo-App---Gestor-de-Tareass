@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- Task list background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,25 L78,25 L78,83 L30,83 Z" />
+    
+    <!-- Task list lines -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M35,35 L70,35 M35,45 L70,45 M35,55 L70,55 M35,65 L70,65 M35,75 L70,75" />
+    
+    <!-- Checkmarks on first two tasks -->
+    <path
+        android:fillColor="#4CAF50"
+        android:strokeWidth="2"
+        android:strokeColor="#4CAF50"
+        android:pathData="M32,32 L36,36 L44,28" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:strokeWidth="2"
+        android:strokeColor="#4CAF50"
+        android:pathData="M32,42 L36,46 L44,38" />
+    
+    <!-- Pencil icon for editing -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M75,20 L85,30 L80,35 L70,25 Z" />
+    
+    <!-- Pencil tip -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M70,25 L72,27 L75,24 Z" />
+</vector>
